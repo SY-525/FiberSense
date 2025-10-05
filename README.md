@@ -142,7 +142,7 @@ The frontend will open in your browser at `http://localhost:3000`.
 
 1. Open the application in your browser
 2. Upload a fiber image
-3. Click "Analyze" or "Predict"
+3. Click "Analyze"
 4. View the classification results
 
 ## Project Structure
