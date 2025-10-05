@@ -1,0 +1,66 @@
+.mainSec {
+  background-image: url("./bg.jpg");
+  color: #12445e;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 4rem;
+  white-space: nowrap;
+}
+
+.cardContainer {
+  width: 1100px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  gap: 30px;
+}
+
+.card {
+  background-color: white;
+  border-radius: 10%;
+  width: 450px;
+  min-height: 400px;
+  padding: 30px;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+button {
+  width: 180px;
+  height: 40px;
+  font-size: medium;
+  border: 2px #12445e solid;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.darkButton {
+  background-color: #12445e;
+  color: white;
+}
+
+.darkButton:hover {
+  background-color: white;
+  color: #12445e;
+}
+
+.darkButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.lightButton {
+  background-color: white;
+  color: #12445e;
+}
+
+.lightButton:hover {
+  background-color: #12445e;
+  color: white;
+}
