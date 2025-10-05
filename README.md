@@ -80,15 +80,6 @@ Install Python dependencies:
 pip install -r requirements.txt
 ```
 
-**Note:** If you don't have a `requirements.txt` file yet, create one with the following common dependencies:
-
-```txt
-torch>=2.0.0
-torchvision>=0.15.0
-flask>=2.3.0
-numpy>=1.24.0
-pillow>=9.5.0
-```
 
 ### 3. Set Up Frontend
 
