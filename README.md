@@ -133,6 +133,10 @@ The backend should start running on `http://localhost:5000` (or another port spe
 In a new terminal window:
 
 ```bash
+cd FiberSense
+```
+
+```bash
 npm start
 ```
 
