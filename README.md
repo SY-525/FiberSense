@@ -1,6 +1,8 @@
 # FiberSense
 
 A machine learning application for fiber analysis using an ensemble deep learning model.
+FiberSense  identifies textile fiber through an image, enabling daily textile categorization. It can be used in the process of textile recycling and degradation. With a textile identifying software that works on the phone, the workers can easily and efficiently categorize the textiles, fastening up the recycling process. It can also be used by non-industry people to substitute expensive textile sensors, as the software only requires a phone to identify the fiber.
+
 
 ## Table of Contents
 - [Overview](#overview)
