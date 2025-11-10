@@ -241,7 +241,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 ## Acknowledgments
 
-- Developed with love my Michelle Shen :3
+- Developed with love by Michelle Shen :3
 
 ## Contact
 
