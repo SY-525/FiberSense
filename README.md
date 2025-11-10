@@ -241,9 +241,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 ## Acknowledgments
 
-- Developed as part of the iGEM 2025 competition
-- Team GEMS-Taiwan
-- [Full Project Documentation](https://2025.igem.wiki/gems-taiwan/)
+- Developed with love my Michelle Shen :3
 
 ## Contact
 
